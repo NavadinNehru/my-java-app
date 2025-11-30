@@ -6,7 +6,6 @@ build
 /build
 /.gradle
 *.class
-*.jar
 *.war
 *.log
 .vscode
